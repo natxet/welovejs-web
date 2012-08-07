@@ -1,7 +1,7 @@
 <?php
 
-$assets_path = '/welovejs-web/';
-$base_path = '/welovejs-web/';
+$assets_path = '/';
+$base_path = '/';
 
 $page_path = str_replace( $base_path, '', filter_input( INPUT_SERVER, 'REQUEST_URI', FILTER_SANITIZE_SPECIAL_CHARS ) );
 $pages = array(
