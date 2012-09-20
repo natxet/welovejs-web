@@ -23,13 +23,7 @@
 	<div class="span4">
 		<h2>Colaboradores</h2>
 		<p>Agradecemos la colaboración de las personas que han difundido, asistido,
-			impartido workshops o charlas en nuestros eventos:</p>
-		<ul>
-			<li>Pepito</li>
-			<li>Pepito</li>
-			<li>Pepito</li>
-			<li>Pepito</li>
-		</ul>
+			impartido workshops o charlas en nuestros eventos</p>
 	</div>
 	<div class="span4">
 		<h2>Sponsor</h2>
