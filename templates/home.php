@@ -13,7 +13,7 @@
 	<div class="span4">
 		<h2>Próximo evento:</h2>
 		<p>
-			<a href="<?=$next_event_url?>" class="btn btn-large btn-primary disabled">29 de septiembre</a>
+			<a href="<?=$next_event_url?>" class="btn btn-large btn-primary"><?=$next_event_name?></a>
 		</p>
 	</div>
 </div>
