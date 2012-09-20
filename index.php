@@ -1,7 +1,5 @@
 <?php
-
-$assets_path = '/';
-$base_path = '/';
+$assets_path = $base_path = preg_replace('|index.php$|', '', $_SERVER['SCRIPT_NAME']);
 
 $page_path = str_replace( $base_path, '', filter_input( INPUT_SERVER, 'REQUEST_URI', FILTER_SANITIZE_SPECIAL_CHARS ) );
 $pages = array(
