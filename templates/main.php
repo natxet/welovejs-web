@@ -10,6 +10,14 @@
 	<style type="text/css">
 		body { padding-top: 60px; padding-bottom: 40px;	}
 		.inline li { display: inline; }
+		.softonic_logo_micro {
+			width: 70px;
+			height: 20px;
+			display: inline-block;
+			vertical-align:text-top;
+			margin: 0 4px;
+			background-image:url('<?=$assets_path?>img/softonic_logo_micro.png');
+		}
 	</style>
 	<link href="<?=$assets_path?>css/bootstrap-responsive.min.css" rel="stylesheet">
 	<link href="<?=$assets_path?>css/social.css" rel="stylesheet">
@@ -36,12 +44,15 @@
 						<li class="<?php if($item_page == $page) echo 'active'?>"><a
 							href="<?=$base_path?><?=$url?>"><?=$item_title?></a></li>
 						<?php endforeach ?>
+						<li class="<?php if($page == $next_event_url) echo 'active'?>"><a
+							href="<?=$base_path?><?=$next_event_url?>" title="<?=$next_event_name?>">Próximo
+							evento: <?=$next_event_name?></a></li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Encuentros anteriores <b
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Anteriores <b
 								class="caret"></b>
 							</a>
 							<ul class="dropdown-menu">
-								<?php foreach($events as $item_page => $item_title): ?>
+								<?php foreach($past_events as $item_page => $item_title): ?>
 								<li class="<?php if($item_page == $page) echo 'active'?>"><a
 									href="<?=$base_path?><?=$item_page?>"><?=$item_title?></a></li>
 								<?php endforeach ?>

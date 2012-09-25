@@ -1,7 +1,7 @@
 <div class="page-header">
 	<h1>Próximo evento: 29 sep 2012
-		<a class="btn btn-large btn-primary" href="http://welovejs3.eventbrite.com/"
-		   target="_blank">Entradas</a></h1>
+		<a class="btn btn-large btn-primary disabled" href="http://welovejs3.eventbrite.com/"
+		   target="_blank">Entradas agotadas!</a></h1>
 </div>
 <div class="row">
 	<div class="span12">

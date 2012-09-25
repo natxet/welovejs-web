@@ -10,11 +10,13 @@ $pages = array(
 $page = $page_path ? $page_path : 'home';
 $page_filename = "templates/$page.php";
 
-$events = array(
-	'2012-fall' => '2012 otoño',
-	'2012-spring' => '2012 primavera',
+$next_events = array(
+	'2012-fall' => '3) 29 Sep 2012'
 );
-$next_event_url = $base_path . array_shift( array_keys( $events ));
-$next_event_name = array_shift( array_values( $events ));
+$past_events = array(
+	'2012-spring' => '2) 28 Abr 2012',
+);
+$next_event_url = array_shift( array_keys( $next_events ));
+$next_event_name = array_shift( array_values( $next_events ));
 
 require 'templates/main.php';
