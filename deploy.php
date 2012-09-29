@@ -11,6 +11,7 @@ if(!file_exists($token_filename)) file_put_contents($token_filename, $_GET['toke
 $token = trim(file_get_contents($token_filename));
 if($_GET['token'] != $token) die('Incorrect token. Delete $token_filename file for storing a new token');
 
+// todo: estas son las ips de github 207.97.227.253, 50.57.128.197, 108.171.174.178
 
 /**
  * based on https://gist.github.com/1809044
@@ -31,7 +32,7 @@ $commands = array(
 $output = '';
 foreach($commands AS $command){
 	// Run it
-	$tmp = shell_exec($command);
+	$tmp = shell_exec($command . " 2>&1");
 	// Output
 	$output .= "<span style=\"color: #6BE234;\">\$</span> <span style=\"color: #729FCF;\">{$command}\n</span>";
 	$output .= htmlentities(trim($tmp)) . "\n";
@@ -53,7 +54,7 @@ foreach($commands AS $command){
  |___==___|  /              &copy; oodavid 2012 |
               |____________________________|
 
-	<?php echo $output; ?>
+<?php echo $output; ?>
 </pre>
 </body>
 </html>
