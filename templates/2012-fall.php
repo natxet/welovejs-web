@@ -8,6 +8,7 @@
 		<ul class="nav nav-tabs" id="eventContents">
 			<li><a href="#talks">Charlas</a></li>
 			<li><a href="#horario">Horario</a></li>
+            <li><a href="#material">Material</a></li>
 		</ul>
 
 		<div class="tab-content">
@@ -31,12 +32,12 @@
 				<hr/>
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img src="<?=$assets_path?>img/speakers/carlos.villuendas.jpg"
-													alt="Carlos Villuendas"></div>
+						<div class="thumbnail"><img src="<?=$assets_path?>img/speakers/tomas.jpg"
+													alt="Tomas Corral"></div>
 					</div>
 					<div class="span10">
 						<h3>Charla sobre Hydra.js modula tu código</h3>
-						<p>Por <strong>Carlos Villuendas</strong></p>
+						<p>Por <strong>Tom&aacute;s Corral</strong></p>
 						<p>Hydra.js es un framework que le facilita las herramientas para escribir su aplicación utilizando módulos o
 							widgets y hace fácil el trabajar con ellos. Hydra.js utiliza una arquitectura desacoplada que:</p>
 						<ul>
@@ -107,7 +108,7 @@
 						<td>Charla sobre Hydra.js modula tu código</td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 13:30 - 15:0</th>
+						<th><i class="icon-time"></i> 13:30 - 15:00</th>
 						<td><i>Comida (Pizzas cortesía de Softonic!)</i></td>
 					</tr>
 					<tr>
@@ -121,6 +122,35 @@
 				</table>
 				<div class="alert alert-info">Importante: Los workshops son en paralelo</div>
 			</div>
+
+            <div class="tab-pane" id="material">
+                <table class="table table-bordered">
+                    <tbody>
+
+
+                    <tr>
+                        <td>Marc Rubiño: <strong>Windows 8 para desarrolladores web</strong></td>
+                        <td>
+                            <a class="btn btn-small" href="<?=$assets_path?>material/fall2012/windows8.zip"><i
+                                    class="icon-picture"></i> Slides</a>
+                        </td>
+                        <td>
+                            <a href="http://www.ustream.tv/channel/softonicuniversity">Streaming</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Tomás Corral: <strong>Hydra.js modula tu código</strong></td>
+                        <td>
+                            <a class="btn btn-small" href="<?=$assets_path?>material/fall2012/Hydra.js_presentacion.zip"><i
+                                    class="icon-picture"></i> Slides</a>
+                        </td>
+                        <td>
+                            <a href="http://www.ustream.tv/channel/softonicuniversity">Streaming</a>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
 		</div>
 
 		<script>
