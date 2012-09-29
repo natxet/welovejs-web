@@ -57,3 +57,8 @@ foreach($commands AS $command){
 </pre>
 </body>
 </html>
+
+<?php
+$ip = isset($_SERVER['HTTP_X_FORWARDED_FOR']) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $_SERVER['REMOTE_ADDR'];
+mail( 'icofre@gmail.com', 'buscacoles.com deployed'
+	, "IP: $ip\n" . var_export($_POST, true) . "\n\n" . $output );
