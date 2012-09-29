@@ -6,3 +6,7 @@ RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^.*$ - [NC,L]
 RewriteRule ^.*$ index.php [NC,L]
 
+<Files .git*>
+    order allow,deny
+    deny from all
+</Files>
