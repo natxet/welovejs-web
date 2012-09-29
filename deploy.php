@@ -5,6 +5,7 @@
 	It must be non readable from the public folder!
 */
 $token_filename = '.gittoken';
+$your_email = 'icofre@gmail.com';
 
 if(!isset($_GET['token']) || !$_GET['token']) die('No token');
 if(!file_exists($token_filename)) file_put_contents($token_filename, $_GET['token']);
@@ -21,6 +22,7 @@ if($_GET['token'] != $token) die('Incorrect token. Delete $token_filename file f
 $commands = array(
 	'echo $PWD',
 	'whoami',
+	'git reset --hard HEAD',
 	'git pull',
 	'git status',
 	'git submodule sync',
@@ -37,6 +39,9 @@ foreach($commands AS $command){
 	$output .= "<span style=\"color: #6BE234;\">\$</span> <span style=\"color: #729FCF;\">{$command}\n</span>";
 	$output .= htmlentities(trim($tmp)) . "\n";
 }
+
+$ip = isset($_SERVER['HTTP_X_FORWARDED_FOR']) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $_SERVER['REMOTE_ADDR'];
+mail( $your_email, 'Server deployed via github', "IP: $ip\n" . var_export($_POST, true) . "\n\n" . $output );
 
 // Make it pretty for manual user access (and why not?)
 ?>
@@ -58,8 +63,3 @@ foreach($commands AS $command){
 </pre>
 </body>
 </html>
-
-<?php
-$ip = isset($_SERVER['HTTP_X_FORWARDED_FOR']) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $_SERVER['REMOTE_ADDR'];
-mail( 'icofre@gmail.com', 'buscacoles.com deployed'
-	, "IP: $ip\n" . var_export($_POST, true) . "\n\n" . $output );
