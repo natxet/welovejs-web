@@ -5,7 +5,7 @@
 	It must be non readable from the public folder!
 */
 $token_filename = '.gittoken';
-$your_email = 'icofre@gmail.com';
+$destinations = array('icofre@gmail.com');
 
 if(!isset($_GET['token']) || !$_GET['token']) die('No token');
 if(!file_exists($token_filename)) file_put_contents($token_filename, $_GET['token']);
@@ -31,17 +31,22 @@ $commands = array(
 );
 
 // Run the commands for output
-$output = '';
+$output = $commands_results = '';
 foreach($commands AS $command){
 	// Run it
 	$tmp = shell_exec($command . " 2>&1");
 	// Output
 	$output .= "<span style=\"color: #6BE234;\">\$</span> <span style=\"color: #729FCF;\">{$command}\n</span>";
 	$output .= htmlentities(trim($tmp)) . "\n";
+	$commands_results .= htmlentities(trim($tmp)) . "\n";
 }
 
+$author = $_POST['payload']['pusher']['email'];
+$destinations[] = $author;
 $ip = isset($_SERVER['HTTP_X_FORWARDED_FOR']) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $_SERVER['REMOTE_ADDR'];
-mail( $your_email, 'Server deployed via github', "IP: $ip\n" . var_export($_POST, true) . "\n\n" . $output );
+foreach($destinations as $destination ) {
+	mail( $destination, 'Server deployed via github', "IP: $ip\n" . var_export($_POST, true) . "\n\n" . $commands_results );
+}
 
 // Make it pretty for manual user access (and why not?)
 ?>
