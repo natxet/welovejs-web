@@ -131,21 +131,17 @@
                     <tr>
                         <td>Marc Rubiño: <strong>Windows 8 para desarrolladores web</strong></td>
                         <td>
+                            <iframe width="480" height="302" src="http://www.ustream.tv/embed/recorded/25785221" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
                             <a class="btn btn-small" href="<?=$assets_path?>material/fall2012/windows8.zip"><i
                                     class="icon-picture"></i> Slides</a>
-                        </td>
-                        <td>
-                            <a href="http://www.ustream.tv/channel/softonicuniversity">Streaming</a>
                         </td>
                     </tr>
                     <tr>
                         <td>Tomás Corral: <strong>Hydra.js modula tu código</strong></td>
                         <td>
+                            <iframe width="480" height="302" src="http://www.ustream.tv/embed/recorded/25786352" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
                             <a class="btn btn-small" href="<?=$assets_path?>material/fall2012/Hydra.js_presentacion.zip"><i
                                     class="icon-picture"></i> Slides</a>
-                        </td>
-                        <td>
-                            <a href="http://www.ustream.tv/channel/softonicuniversity">Streaming</a>
                         </td>
                     </tr>
                     </tbody>
