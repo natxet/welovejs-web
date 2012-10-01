@@ -11,9 +11,9 @@ $page = $page_path ? $page_path : 'home';
 $page_filename = "templates/$page.php";
 
 $next_events = array(
-	'2012-fall' => '3) 29 Sep 2012'
 );
 $past_events = array(
+	'2012-fall' => '3) 29 Sep 2012',
 	'2012-spring' => '2) 28 Abr 2012',
 );
 $next_event_url = array_shift( array_keys( $next_events ));

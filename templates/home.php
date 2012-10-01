@@ -14,15 +14,6 @@
 		</div>
 	</div>
 	<div class="span4">
-		<h2>Próximos eventos:</h2>
-		<h3><a href="<?=$next_event_url?>"><?=$next_event_name?></a></h3>
-		<ul>
-			<li>Charla sobre Windows 8 para desarrolladores Web</li>
-			<li>Charla sobre Hydra.js modula tu código</li>
-			<li>Workshop Backbone.js Avanzado</li>
-			<li>Workshop Titanium Mobile Development Platform</li>
-		</ul>
-		<div class="alert alert-info">Entradas agotadas!</div>
 	</div>
 </div>
 
