@@ -44,9 +44,11 @@
 						<li class="<?php if($item_page == $page) echo 'active'?>"><a
 							href="<?=$base_path?><?=$url?>"><?=$item_title?></a></li>
 						<?php endforeach ?>
+						<?php if($next_event_url): ?>
 						<li class="<?php if($page == $next_event_url) echo 'active'?>"><a
 							href="<?=$base_path?><?=$next_event_url?>" title="<?=$next_event_name?>">Próximo
 							evento: <?=$next_event_name?></a></li>
+						<?php endif; ?>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Anteriores <b
 								class="caret"></b>
