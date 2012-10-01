@@ -42,7 +42,7 @@ foreach($commands AS $command){
 }
 
 $author = $_POST['payload']['pusher']['email'];
-$destinations[] = $author;
+if(!in_array($author, $destinations)) $destinations[] = $author;
 $ip = isset($_SERVER['HTTP_X_FORWARDED_FOR']) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $_SERVER['REMOTE_ADDR'];
 foreach($destinations as $destination ) {
 	mail( $destination, 'Server deployed via github', "IP: $ip\n" . var_export($_POST, true) . "\n\n" . $commands_results );
