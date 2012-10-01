@@ -22,7 +22,7 @@ if($_GET['token'] != $token) die('Incorrect token. Delete $token_filename file f
 $commands = array(
 	'echo $PWD',
 	'whoami',
-	'git reset --hard HEAD',
+//	'git reset --hard HEAD',
 	'git pull',
 	'git status',
 	'git submodule sync',
