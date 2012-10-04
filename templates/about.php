@@ -1,23 +1,19 @@
 <div class="page-header">
-	<h1>Quiénes somos <small> JS Lovers</small></h1>
+	<h1>Quiénes somos</h1>
 </div>
 <div class="row">
 	<div class="span4">
 		<h2>Organizadores</h2>
 		<p>Los organizadores de este follón son:</p>
 		<ul class="thumbnails">
+			<?php foreach($config['organizers'] as $org): ?>
 			<li class="span2">
 				<div class="thumbnail">
-					<img src="<?=$assets_path?>img/tomas.jpg" alt="Tomás Corral">
-					<h5>Tomás Corral</h5>
+					<img src="<?=$assets_path?>img/<?=$org['foto']?>" alt="<?=$org['name']?>">
+					<h5><?=$org['name']?></h5>
 				</div>
 			</li>
-			<li class="span2">
-				<div class="thumbnail">
-					<img src="<?=$assets_path?>img/carlos.jpg" alt="Carlos Villuendas">
-					<h5>Carlos Villuendas</h5>
-				</div>
-			</li>
+			<?php endforeach ?>
 		</ul>
 	</div>
 	<div class="span4">

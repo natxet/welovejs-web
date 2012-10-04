@@ -1,11 +1,11 @@
 <div class="row">
 	<div class="span8">
 		<div class="hero-unit">
-			<h1><img src="<?=$assets_path?>img/logo.png" alt="We love JS"></h1><br/>
-			<p>Somos un grupo de programadores que nos reunimos trimestralmente en Barcelona para aprender sobre
-				<strong>Javascript</strong> y proyectos relacionados.</p>
+			<h1><img src="<?=$assets_path?>img/logo_<?=$site?>.png" alt="<?=$config['title']?>"></h1><br/>
+			<p><?=$config['description']?></p>
 			<p>
-				<a href="https://twitter.com/WeLoveJS_Event" class="twitter-follow-button" data-show-count="false"
+				<a href="https://twitter.com/<?=$config['twitter']?>" class="twitter-follow-button"
+				   data-show-count="false"
 				   data-lang="es" data-size="large" data-dnt="true">Follow @twitter</a>
 			</p>
 			<hr/>
@@ -16,5 +16,4 @@
 	<div class="span4">
 	</div>
 </div>
-
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

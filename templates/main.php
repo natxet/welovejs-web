@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>We love Javascript</title>
+	<title><?=$config['title']?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author" content="">
@@ -36,7 +36,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</a>
-				<a class="brand" href="./">{WE [&hearts;] JS}</a>
+				<a class="brand" href="./"><?=$config['title_special']?></a>
 				<div class="nav-collapse">
 					<ul class="nav">
 						<?php foreach($pages as $item_page => $item_title):
@@ -49,6 +49,7 @@
 							href="<?=$base_path?><?=$next_event_url?>" title="<?=$next_event_name?>">Próximo
 							evento: <?=$next_event_name?></a></li>
 						<?php endif; ?>
+						<?php if(count($past_events)): ?>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Anteriores <b
 								class="caret"></b>
@@ -60,6 +61,7 @@
 								<?php endforeach ?>
 							</ul>
 						</li>
+						<?php endif; ?>
 					</ul>
 				</div><!--/.nav-collapse -->
 			</div><!-- /.container -->

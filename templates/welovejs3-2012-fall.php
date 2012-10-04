@@ -32,7 +32,7 @@
 				<hr/>
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img src="<?=$assets_path?>img/speakers/tomas.jpg"
+						<div class="thumbnail"><img src="<?=$assets_path?>img/speakers/tomas.corral.jpg"
 													alt="Tomas Corral"></div>
 					</div>
 					<div class="span10">
