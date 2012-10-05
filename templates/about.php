@@ -9,8 +9,23 @@
 			<?php foreach($config['organizers'] as $org): ?>
 			<li class="span2">
 				<div class="thumbnail">
-					<img src="<?=$assets_path?>img/<?=$org['foto']?>" alt="<?=$org['name']?>">
+					<?php if( isset($org['foto']) && file_exists("img/organizers/{$org['foto']}")): ?>
+					<img src="<?=$assets_path?>img/organizers/<?=$org['foto']?>" alt="<?=$org['name']?>">
+					<?php endif ?>
 					<h5><?=$org['name']?></h5>
+					<ul class="unstyled inline">
+						<?php if(isset($org['email'])): ?>
+						<li><a href="mailto:<?=$org['email']?>" class="sb small email">e-mail</a></li>
+						<?php endif ?>
+						<?php if(isset($org['linkedin'])): ?>
+						<li><a href="<?=$org['linkedin']?>" class="sb small linkedin">Linkedin</a></li>
+						<?php endif ?>
+						<?php if(isset($org['twitter'])): ?>
+						<li><a href="https://twitter.com/#!/<?=$org['twitter']?>" class="sb small
+				twitter">Twitter</a></li>
+						<?php endif ?>
+					</ul>
+
 				</div>
 			</li>
 			<?php endforeach ?>

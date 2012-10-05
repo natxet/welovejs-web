@@ -18,8 +18,10 @@
 			margin: 0 4px;
 			background-image:url('<?=$assets_path?>img/softonic_logo_micro.png');
 		}
+
 	</style>
 	<link href="<?=$assets_path?>css/bootstrap-responsive.min.css" rel="stylesheet">
+	<link href="<?=$assets_path?>css/<?=$site?>.css" rel="stylesheet">
 	<link href="<?=$assets_path?>css/social.css" rel="stylesheet">
 	<!--[if lt IE 9]>
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>

@@ -8,11 +8,13 @@ $config = array(
 	'organizers' => array(
 		array(
 			'foto' => 'tomas.jpg',
-			'name' => 'Tomás Corral'
+			'name' => 'Tomás Corral',
+			'twitter' => 'amischol'
 		),
 		array(
 			'foto' => 'carlos.jpg',
-			'name' => 'Carlos Villuendas'
+			'name' => 'Carlos Villuendas',
+			'twitter' => 'cvillu'
 		)
 	),
 	'next_events' => array(
