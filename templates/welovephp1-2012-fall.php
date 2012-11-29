@@ -51,7 +51,7 @@
                                                     alt="Marcos Quesada"></div>
                     </div>
                     <div class="span10">
-                        <h3>Workshop "BDD con Behat y Mockery"</h3>
+                        <h3>(Workshop) "BDD con Behat y Mockery"</h3>
                         <p>Por <strong>Marcos Quesada</strong></p>
                         <p>En el mundo del testing cada vez es más apreciado el testing funcional como forma de asegurar las expectativas de negocio.
 							El BDD surge como un gran complemento al TDD en los ciclos de integración continua al garantizar el servicio de las
