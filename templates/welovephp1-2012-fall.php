@@ -47,16 +47,22 @@
 
                 <div class="row">
                     <div class="span2">
-                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/default.jpg"
-                                                    alt="Un elefante se balanceaba."></div>
+                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/marcos.quesada.jpg"
+                                                    alt="Marcos Quesada"></div>
                     </div>
                     <div class="span10">
-                        <h3>(Workshop) Próximamente.</h3>
-                        <p>Por <strong>Un Héroe</strong></p>
-                        <p>¿Conocías el patrón de diseño Mediator? También c&p de <a href="http://es.wikipedia.org/wiki/Mediator_(patr%C3%B3n_de_dise%C3%B1o)" rel="nofollow" target="_blank">Wikipedia</a>.</p>
-                        <p><blockquote>El patrón mediador define un objeto que encapsula cómo un conjunto de objetos interactúan. Este patrón de
-						diseño está considerado como un patrón de comportamiento debido al hecho de que puede alterar el comportamiento del programa
-						en ejecución.</blockquote></p>
+                        <h3>Workshop "BDD con Behat y Mockery"</h3>
+                        <p>Por <strong>Marcos Quesada</strong></p>
+                        <p>En el mundo del testing cada vez es más apreciado el testing funcional como forma de asegurar las expectativas de negocio.
+							El BDD surge como un gran complemento al TDD en los ciclos de integración continua al garantizar el servicio de las
+							funcionalidades desarrolladas, el mayor exponente en php es el framework 'ágil' Behat.
+                            El workshop se centrará en Behat , y todos sus componentes , incluyendo la librería Mockery como alternativa a los Mocks tradicionales de PHPUnit.
+                        </p>
+                        <p><span class="label label-important">Requerimientos</span></p>
+                        <ul>
+                            <li>Entorno LAMP (PHP >= 5.3)</li>
+                            <li>Git</li>
+                        </ul>
                     </div>
                 </div>
                 <hr/>
@@ -104,7 +110,7 @@
 					</tr>
 					<tr>
 						<th rowspan="2"><i class="icon-time"></i> 15:00 - 18:00</th>
-						<td>(Workshop) Próximamente.</td>
+						<td>Workshop "BDD con Behat y Mockery".</td>
 					</tr>
 					<tr>
 						<td>(Workshop) Próximamente.</td>
