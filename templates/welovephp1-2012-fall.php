@@ -102,7 +102,7 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 11:00 - 12:00</th>
-						<td>Charla sobre "Resultados de búsqueda rápidos, relevantes y útiles con Apache Solr".</td>
+						<td>(Charla) "Resultados de búsqueda rápidos, relevantes y útiles con Apache Solr".</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 12:00 - 12:30</th>
@@ -110,7 +110,7 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 12:30 - 13:30</th>
-						<td>(Charla) Próximamente.</td>
+						<td>(Charla)"Debugging/profiling con xhprof y xdebug"</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 13:30 - 15:00</th>
@@ -118,10 +118,10 @@
 					</tr>
 					<tr>
 						<th rowspan="2"><i class="icon-time"></i> 15:00 - 18:00</th>
-						<td>Workshop "BDD con Behat y Mockery".</td>
+						<td>(Workshop) "BDD con Behat y Mockery".</td>
 					</tr>
 					<tr>
-						<td>(Workshop) Próximamente.</td>
+						<td>(Workshop) "Introduction to Hadoop: What if Google was written in PHP"</td>
 					</tr>
 					</tbody>
 				</table>
