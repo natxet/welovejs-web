@@ -28,21 +28,22 @@
 				</div>
                 <hr/>
 
-				<div class="row">
-					<div class="span2">
-						<div class="thumbnail"><img src="<?=$assets_path?>img/speakers/default.jpg"
-													alt="Super Teemo"></div>
-					</div>
-					<div class="span10">
-						<h3>(Charla) Próximamente.</h3>
-						<p>Por <strong>Un Crack</strong></p>
-						<p>Mientras no se haga público este <em>speaker</em>, te dejamos con el patrón de diseño Factory Method de <a href="http://es.wikipedia.org/wiki/Factory_Method_(patr%C3%B3n_de_dise%C3%B1o)" rel="nofollow" target="_blank">Wikipedia</a>.</p>
-						<p><blockquote>Factory Method consiste en utilizar una clase constructora (al estilo del Abstract Factory) abstracta con unos cuantos
-							métodos definidos y otro(s) abstracto(s): el dedicado a la construcción de objetos de un subtipo de un tipo determinado.
-							Es una simplificación del Abstract Factory, en la que la clase abstracta tiene métodos concretos que usan algunos de los
-							abstractos; según usemos una u otra hija de esta clase abstracta, tendremos uno u otro comportamiento.</blockquote></p>
-					</div>
-				</div>
+                <div class="row">
+                    <div class="span2">
+                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/javier.linares.jpg"
+                                                    alt="Javier Linares"></div>
+                    </div>
+                    <div class="span10">
+                        <h3>(Charla) "Debugging/profiling con xhprof y xdebug"</h3>
+                        <p>Por <strong>Javier Linares</strong> y <strong>Javier Carranza Abadía</strong></p>
+                        <p>En 1995 el reto era tener web. Hoy el reto está en servirla con el menor
+                            coste y la mayor velocidad para el usuario. Esta sesión introduce el
+                            profiling con xhprof y cómo entender los números que se pueden extraer.
+                            Una vez identificados los problemas, veremos cómo entrar a solucionarlos
+                            usando xdebug
+                        </p>
+                    </div>
+                </div>
                 <hr/>
 
                 <div class="row">
@@ -69,16 +70,23 @@
 
                 <div class="row">
                     <div class="span2">
-                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/default.jpg"
-                                                    alt="Sauron"></div>
+                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/zoltan.tothczifra.jpg"
+                                                    alt="Zoltan Tothczifra"></div>
                     </div>
                     <div class="span10">
-                        <h3>(Workshop) Próximamente.</h3>
-                        <p>Por <strong>Una Leyenda</strong></p>
-                        <p>Y para acabar el patrón de diseño State (obviously de <a href="http://es.wikipedia.org/wiki/State_(patr%C3%B3n_de_dise%C3%B1o)" rel="nofollow" target="_blank">Wikipedia</a>).</p>
-                        <p><blockquote>El patrón de diseño State se utiliza cuando el comportamiento de un objeto cambia dependiendo del estado del
-						mismo. Por ejemplo: una alarma puede tener diferentes estados, como desactivada, activada, en configuración. Definimos
-						una interfaz Estado_Alarma, y luego definimos los diferentes estados.</blockquote></p>
+                        <h3>(Workshop) "Introduction to Hadoop: What if Google was written in PHP"</h3>
+                        <p>Por <strong>Zoltán Tóth-Czifra</strong></p>
+                        <p>Have you ever heard of Hadoop? and Google's BigData? Hadoop is a massively parallel processing system which has been
+							inspired by Google's BigData platform, the technology that allows them to implement their famous search algorithm on the
+							scale of the World Wide Web. In this workshop we will learn the basics of Hadoop and the MapReduce framework and see that
+							we can write our own MapReduce programs without any Java knowledge. We are going to try to implement Google's famous
+							PageRank algorithm with PHP which then would be able to run on any Hadoop cluster.
+						</p>
+                        <p><span class="label label-important">Requerimientos</span></p>
+                        <ul>
+                            <li>The workshop will be in English.</li>
+                            <li>More to be defined.</li>
+                        </ul>
                     </div>
                 </div>
 
