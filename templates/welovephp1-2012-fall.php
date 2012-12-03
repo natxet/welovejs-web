@@ -1,6 +1,6 @@
 <div class="page-header">
 	<h1>Próximo evento: 15 dic 2012</h1>
-	<h2>Inscripción abierta a partir del 3 de diciembre</h2>
+	<a class="btn btn-large btn-primary" href="http://welovephp1.eventbrite.es" target="_blank">Apúntate</a>
 </div>
 <div class="row">
 	<div class="span12">
@@ -85,7 +85,8 @@
                         <p><span class="label label-important">Requerimientos</span></p>
                         <ul>
                             <li>The workshop will be in English.</li>
-                            <li>More to be defined.</li>
+                            <li>VMware Player (updated)</li>
+                            <li>Putty</li>
                         </ul>
                     </div>
                 </div>
