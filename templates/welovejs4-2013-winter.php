@@ -17,7 +17,7 @@
 
 		<div class="tab-content">
 			<div class="tab-pane span4" id="talks">
-				<div class="alert alert-block"><h4>Atención!</h4>Fecha por confirmar</div>
+				<!--<div class="alert alert-block"><h4>Atención!</h4>Fecha por confirmar</div>-->
 				<p><a class="btn btn-primary" href="https://docs.google.com/spreadsheet/viewform?formkey=dDNYZXg2YmRwZWRYakhybmc1Qk1kUnc6MQ#gid=0">Call for papers</a></p>
 			</div>
 			<div class="tab-pane" id="horario">
@@ -30,7 +30,7 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 11:00 - 12:00</th>
-						<td>Charla por concretar</td>
+						<td>Introducción a TypeScript</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 12:00 - 12:30</th>
@@ -46,7 +46,7 @@
 					</tr>
 					<tr>
 						<th rowspan="2"><i class="icon-time"></i> 15:00 - 18:00</th>
-						<td>Workshop por concretar</td>
+						<td>TypeScript - Con las manos en la masa</td>
 					</tr>
 					<tr>
 						<td>Workshop por concretar</td>
