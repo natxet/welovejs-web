@@ -91,8 +91,8 @@
                         <div class="thumbnail"><img width="200" height="200" src="<?=$assets_path?>img/speakers/tbd.jpg"
                                                     alt="TBD">
                             <ul class="unstyled inline">
-                                <li><a href="mailto:fer.escolar@gmail.com" class="sb small email">e-mail</a></li>
-                                <li><a href="https://twitter.com/#!/fernandoescolar" class="sb small twitter">Twitter</a></li>
+                                <li><a href="mailto:" class="sb small email">e-mail</a></li>
+                                <li><a href="https://twitter.com/#!/" class="sb small twitter">Twitter</a></li>
                                 <!--<li><a href="https://www.facebook.com/carlos.villu" class="sb small facebook">Facebook</a></li>
 <li><a href="http://es.linkedin
 .com/pub/carlos-villuendas/22/441/449" class="sb small linkedin">Linkedin</a></li>-->
