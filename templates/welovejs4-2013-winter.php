@@ -20,7 +20,7 @@
 
                 <div class="row">
                     <div class="span2">
-                        <div class="thumbnail"><img width="200" height="200" src="<?=$assets_path?>img/speakers/pablo.bouzada.jpg"
+                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/pablo.bouzada.jpg"
                                                     alt="Pablo Bouzada">
 							<!--<ul class="unstyled inline">
                             	<li><a href="mailto:pbousan@gmail.com" class="sb small email">e-mail</a></li>
@@ -45,7 +45,7 @@
                 <hr/>
                 <div class="row">
                     <div class="span2">
-                        <div class="thumbnail"><img width="200" height="200" src="<?=$assets_path?>img/speakers/tbd.jpg"
+                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/tbd.jpg"
                                                     alt="TBD">
                             <!--<ul class="unstyled inline">
                                 <li><a href="mailto:" class="sb small email">e-mail</a></li>
@@ -62,7 +62,7 @@
                 <hr/>
                 <div class="row">
                     <div class="span2">
-                        <div class="thumbnail"><img width="200" height="200" src="<?=$assets_path?>img/speakers/fernando.escolar.jpg"
+                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/fernando.escolar.jpg"
                                                     alt="Fernando Escolar">
                             <!--<ul class="unstyled inline">
                                 <li><a href="mailto:fer.escolar@gmail.com" class="sb small email">e-mail</a></li>
@@ -93,7 +93,7 @@
                 <hr/>
                 <div class="row">
                     <div class="span2">
-                        <div class="thumbnail"><img width="200" height="200" src="<?=$assets_path?>img/speakers/tbd.jpg"
+                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/tbd.jpg"
                                                     alt="TBD">
                             <!--<ul class="unstyled inline">
                                 <li><a href="mailto:" class="sb small email">e-mail</a></li>
