@@ -3,9 +3,9 @@
 
 
 <div class="page-header">
-	<h1>Pr&oacute;ximo evento: 26 ene 2012
+	<h1>Pr&oacute;ximo evento: 2 de marzo de 2013
 		<a class="btn btn-large btn-primary disabled"
-		   target="_blank">Lunes 14 ene 2012 entradas a la venta</a></h1>
+		   target="_blank">En breve, entradas a la venta</a></h1>
 </div>
 <div class="row">
 	<div class="span12">
