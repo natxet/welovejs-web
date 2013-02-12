@@ -45,18 +45,30 @@
                 <hr/>
                 <div class="row">
                     <div class="span2">
-                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/tbd.jpg"
-                                                    alt="TBD">
+                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/imanol.martin.png"
+                                                    alt="Imanol Martín">
                             <!--<ul class="unstyled inline">
-                                <li><a href="mailto:" class="sb small email">e-mail</a></li>
+                                <li><a href="mailto:imanol.martin@ideateca.com" class="sb small email">e-mail</a></li>
                                 <li><a href="https://twitter.com/#!/" class="sb small twitter">Twitter</a></li>
                             </ul>-->
 						</div>
                     </div>
                     <div class="span10">
-                        <h3>Charla: TBD</h3>
-                        <p>Por <strong>TBD</strong></p>
-                        <p></p>
+                        <h3>Charla: CocoonJS</h3>
+                        <p>Por <strong>Imanol Martín</strong></p>
+						<p>
+							<div><strong>BIO:</strong></div>
+							Ingeniero de software en Ludei, ha estado involucrado en el desarrollo de la plataforma
+							CocoonJS desde sus inicios como coresponsable del desarrollo del Core de Framework
+							nativo, así como de la integración con servicios de terceros.
+						</p>
+                        <p>
+							<div><strong>Sobre la charla:</strong></div>
+							En la charla se hará una introducción a CocoonJS como plataforma para el despliegue de
+							desarrollos HTML5 en plataformas móviles.
+							Se hará una presentación sobre la arquitectura de la plataforma,
+							los servicios que ofrece y por qué CocoonJS frente a otras alternativas.
+						 </p>
                     </div>
                 </div>
                 <hr/>
@@ -73,9 +85,6 @@
                     <div class="span10">
                         <h3>Workshop: TypeScript - Con las manos en la masa</h3>
                         <p>Por <strong>Fernando Escolar</strong></p>
-                        <p><a href="https://docs.google.com/document/d/1yayykL_RLlcbcwfryhbBolu9H7uCX7JHbbrMCJ9Fnqw/edit"
-                              target="_blank"
-                              class="label label-important">Requerimientos</a></p>
                         <p>
 							<div><strong>BIO:</strong></div>
                             Desarrollador especialista en tecnolog&iacute;as .Net en Pasiona Consulting. Convencido de que hay una forma mejor de hacer las cosas: el agilismo ayuda a enriquecer los procesos y es necesario un constante estado de aprendizaje. Divulgador tecnológico en la Fundaci&oacute;n [T]echdencias y colaborador de los grupos de usuarios CatDotNet, Agile Barcelona y programandonet.com.
@@ -88,13 +97,17 @@
                         Iremos paso a paso desarrollando tanto la parte del servidor (en Node.js) como la de cliente (Single Page App) utilizando Typescript en ambos casos.
                         Si te interesa s&oacute;lo tienes que <strong>traer instalado Node y tu IDE favorito</strong>, lo dem&aacute;s lo ponemos nosotros ;)
                         </p>
+						<p><a class="label label-important">Requerimientos</a></p>
+						<ul>
+							<li>Tener instalado Node.js en la máquina y un IDE a tu elección.</li>
+						</ul>
                     </div>
                 </div>
                 <hr/>
                 <div class="row">
                     <div class="span2">
-                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/tbd.jpg"
-                                                    alt="TBD">
+                        <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/imanol.martin.png"
+													alt="Imanol Martín">
                             <!--<ul class="unstyled inline">
                                 <li><a href="mailto:" class="sb small email">e-mail</a></li>
                                 <li><a href="https://twitter.com/#!/" class="sb small twitter">Twitter</a></li>
@@ -102,13 +115,17 @@
 						</div>
                     </div>
                     <div class="span10">
-                        <h3>Workshop: TBD</h3>
-                        <p>Por <strong>TBD</strong></p>
-                        <p><a href=""
-                              target="_blank"
-                              class="label label-important">Requerimientos</a></p>
-                        <p></p>
-                        <p></p>
+                        <h3>Workshop: CocoonJS</h3>
+                        <p>Por <strong>Imanol Martín</strong></p>
+                        <p>En el Workshop desarrollaremos un pequeño juego en HTML5 siguiendo el proceso desde su
+							codificación hasta la obtención una app final multiplataforma.
+						</p>
+						<p><a class="label label-important">Requerimientos</a></p>
+						<ul>
+							<li>Conocimientos básicos de HTML5.</li>
+							<li>Conocimientos básicos de plataformas móviles: iOS y Android.</li>
+						</ul>
+
                     </div>
                 </div>
 
@@ -123,7 +140,7 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 11:00 - 12:00</th>
-						<td>Introducci&oacute;n a TypeScript</td>
+						<td>Charla: Introducci&oacute;n a TypeScript</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 12:00 - 12:30</th>
@@ -131,22 +148,23 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 12:30 - 13:30</th>
-						<td>Charla por concretar</td>
+						<td>Charla: CocoonJS</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 13:30 - 15:00</th>
 						<td><i>Comida (Pizzas cortes&iacute;a de Softonic!)</i></td>
 					</tr>
 					<tr>
-						<th rowspan="2"><i class="icon-time"></i> 15:00 - 18:00</th>
-						<td>TypeScript - Con las manos en la masa</td>
+						<th rowspan="2"><i class="icon-time"></i> 15:00 - 18:00 <i class="icon-exclamation-sign"></i></th>
+						<td>Workshop: TypeScript - Con las manos en la masa</td>
 					</tr>
 					<tr>
-						<td>Workshop por concretar</td>
+						<td>Workshop: CocoonJS</td>
 					</tr>
 					</tbody>
 				</table>
-				<div class="alert alert-info">Importante: Los workshops son en paralelo</div>
+				<div class="alert alert-info"><i class="icon-exclamation-sign"></i> Importante: Los workshops son en
+					paralelo</div>
 			</div>
 
 
