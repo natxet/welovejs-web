@@ -4,8 +4,8 @@
 
 <div class="page-header">
 	<h1>Pr&oacute;ximo evento: 2 de marzo de 2013
-		<a class="btn btn-large btn-primary" href="http://welovejs4.eventbrite.com/"
-		   target="_blank">Entradas a la venta</a></h1>
+		<a class="btn btn-large btn-success" href="http://welovejs4.eventbrite.com/"
+		   target="_blank">¡Consigue tu entrada!</a></h1>
 </div>
 <div class="row">
 	<div class="span12">
