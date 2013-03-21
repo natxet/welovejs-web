@@ -86,7 +86,7 @@
 				<table class="table table-bordered">
 					<tbody>
 					<tr>
-						<th><i class="icon-time"></i> 10:00 - 11:00</th>
+						<th><i class="icon-time"></i> 10:30 - 11:00</th>
 						<td>APERTURA - RECEPCIÓN</td>
 					</tr>
 					<tr>
