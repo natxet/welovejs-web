@@ -15,7 +15,7 @@
 				<div class="row">
 					<div class="span2">
 						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/naruto.jpg"
-													alt="Santiago Lizardo"></div>
+													alt="Naruto"></div>
 					</div>
 					<div class="span10">
 						<h3>(Charla) Próximamente.</h3>
@@ -32,7 +32,7 @@
 				<div class="row">
 					<div class="span2">
 						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/sasuke.jpeg"
-													alt="Santiago Lizardo"></div>
+													alt="Sasuke"></div>
 					</div>
 					<div class="span10">
 						<h3>(Charla) Próximamente.</h3>
@@ -49,7 +49,7 @@
                 <div class="row">
 					<div class="span2">
 						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/shikamaru.jpeg"
-													alt="Santiago Lizardo"></div>
+													alt="Shikamaru"></div>
 					</div>
 					<div class="span10">
 						<h3>(Workshop) Próximamente.</h3>
@@ -66,7 +66,7 @@
 				<div class="row">
 					<div class="span2">
 						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/choji.jpg"
-													alt="Santiago Lizardo"></div>
+													alt="Choji"></div>
 					</div>
 					<div class="span10">
 						<h3>(Workshop) Próximamente.</h3>
