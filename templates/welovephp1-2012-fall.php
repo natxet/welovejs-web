@@ -1,6 +1,5 @@
 <div class="page-header">
-	<h1>Próximo evento: 15 dic 2012</h1>
-	<a class="btn btn-large btn-primary" href="http://welovephp1.eventbrite.es" target="_blank">Apúntate</a>
+	<h1>15 dic 2012</h1>
 </div>
 <div class="row">
 	<div class="span12">
