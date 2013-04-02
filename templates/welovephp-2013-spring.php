@@ -72,6 +72,11 @@
 							ciertas clases de problemas sin que Redis llegue a ser su base de
 							datos primaria.
 						</p>
+						<p><span class="label label-important">Requerimientos</span></p>
+						<ul>
+							<li>Entorno LAMP</li>
+							<li>PHP  version >= 5.3.4</li>
+						</ul>
 					</div>
 				</div>
                 <hr/>
