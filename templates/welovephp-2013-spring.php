@@ -14,7 +14,7 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/unknown.png"
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/unknown.png"
 													alt="Unknown"></div>
 					</div>
 					<div class="span10">
@@ -30,7 +30,7 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/sasuke.jpeg"
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/sasuke.jpeg"
 													alt="Sasuke"></div>
 					</div>
 					<div class="span10">
@@ -47,7 +47,7 @@
 
                 <div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/ronny.lopez.jpg"
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/ronny.lopez.jpg"
 													alt="Ronny López"></div>
 					</div>
 					<div class="span10">
@@ -82,7 +82,7 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/choji.jpg"
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/choji.jpg"
 													alt="Choji"></div>
 					</div>
 					<div class="span10">
