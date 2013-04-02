@@ -14,17 +14,16 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/naruto.jpg"
-													alt="Naruto"></div>
+						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/unknown.png"
+													alt="Unknown"></div>
 					</div>
 					<div class="span10">
-						<h3>(Charla) Próximamente.</h3>
-						<p>Por un ninja</p>
-						<p>Mientras no se haga público este <em>speaker</em>, te dejamos con uno de nuestros personajes favoritos (<a href="http://es.wikipedia.org/wiki/Naruto" rel="nofollow" target="_blank">Wikipedia</a>).</p>
-						<p>Desde su infancia, era común que <strong>Naruto</strong> hiciera bromas para atraer la atención de los demás.
-							A través de su habilidad para cambiar a los demás, Naruto va ganándose a los amigos que le hicieron falta en su infancia.
-							No obstante, sus amistades más prominentes en la serie son sus dos compañeros de equipo, Sakura Haruno y Sasuke Uchiha,
-							llegando a considerar a este último como a un hermano.</p>
+						<h3>(Charla) ¿Debería migrar a HipHop?</h3>
+						<p>Por Daniel Pañeda</p>
+						<p>HipHop es uno de los proyectos liberados por Facebook más conocidos.
+							Hablaremos del estado actual del proyecto, y aprovecharé mi experiencia migrando de PHP a
+							HipHop para describir los mayores problemas que supone la migración, así como los resultados obtenidos,
+							con la idea de que los asistentes puedan valorar si la migración merece la pena en su caso.</p>
 					</div>
 				</div>
                 <hr/>
@@ -109,7 +108,7 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 11:00 - 12:00</th>
-						<td>(Charla) Próximamente</td>
+						<td>(Charla) ¿Debería migrar a HipHop?</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 12:00 - 12:30</th>
