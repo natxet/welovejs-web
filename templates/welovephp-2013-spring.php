@@ -48,17 +48,30 @@
 
                 <div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/shikamaru.jpeg"
-													alt="Shikamaru"></div>
+						<div class="thumbnail"><img width="160px" height="160px" src="<?=$assets_path?>img/speakers/ronny.lopez.jpg"
+													alt="Ronny López"></div>
 					</div>
 					<div class="span10">
-						<h3>(Workshop) Próximamente.</h3>
-						<p>Por un pensador</p>
-						<p>Esto es muy problemático (<a href="http://es.wikipedia.org/wiki/Shikamaru_Nara" rel="nofollow" target="_blank">Wikipedia</a>).</p>
-						<p><strong>Shikamaru</strong> es un genio flojo y despreocupado que fue promovido al nivel Chūnin menos de un año después de la graduación.
-							Pertenece a un clan de manipuladores de sombras y de pastores de ciervos, así que su técnica especial es el Kagemane no
-							Jutsu (Técnica de Imitación de Sombra). Shikamaru a pesar de pensar que las mujeres son problemáticas y no las soporta,
-							tiene muy bien pensado el futuro: como casarse, tener dos hijos, una niña y un niño y morir antes de su esposa para no sufrir</p>
+						<h3>(Workshop) Redis: Introducción e integración en entornos PHP</h3>
+						<p>Por <strong>Ronny López</strong></p>
+						<p>
+							Redis es un servidor avanzado de estructuras de datos. El proyecto se
+							inició en 2009 y  rápidamente creció su popularidad debido a su
+							sencillez, versatilidad y excepcional rendimiento, llegando a ser hoy
+							una de las piezas claves en la arquitectura de aplicaciones y sitios
+							webs que requieran un alto rendimiento.
+						</p>
+						<p>
+							En el workshop veremos cómo podemos comenzar a beneficiarnos de las
+							características de Redis al instalarlo e integrarlo en un entorno PHP
+							existente.
+						</p>
+						<p>
+							Analizaremos cómo puede usarse Redis para implementar de forma simple
+							casos de usos típicos del desarrollo web, así como para resolver
+							ciertas clases de problemas sin que Redis llegue a ser su base de
+							datos primaria.
+						</p>
 					</div>
 				</div>
                 <hr/>
@@ -107,7 +120,7 @@
 					</tr>
 					<tr>
 						<th rowspan="2"><i class="icon-time"></i> 15:00 - 18:00</th>
-						<td>(Workshop) Próximamente</td>
+						<td>(Workshop) Redis: Introducción e integración en entornos PHP</td>
 					</tr>
 					<tr>
 						<td>(Workshop) Próximamente</td>
