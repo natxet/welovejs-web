@@ -30,17 +30,15 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/sasuke.jpeg"
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/basilio.vera.jpg"
 													alt="Sasuke"></div>
 					</div>
 					<div class="span10">
-						<h3>(Charla) Próximamente.</h3>
-						<p>Por un vengador</p>
-						<p>Fuerte pero malo malo (<a href="http://es.wikipedia.org/wiki/Sasuke_Uchiha" rel="nofollow" target="_blank">Wikipedia</a>).</p>
-						<p>La principal motivación de <strong>Sasuke</strong> a lo largo de la serie es la de vengar la destrucción de todo su clan por
-							parte de su hermano mayor, Itachi Uchiha. Por ello, desde el principio Sasuke actúa como una persona fría e impulsada por
-							el odio y la venganza. Sin embargo, logra desarrollar una actitud más simpática a medida que sus relaciones con los otros
-							personajes avanza, especialmente con Naruto, a quien llega a considerar su rival.</p>
+						<h3>(Charla) Todo lo que siempre quiso saber sobre escalabilidad y nunca se atrevió a preguntar.</h3>
+						<p>Por Basilio Vera</p>
+						<p>El arquitecto más veterano de Softonic nos explicará qué es exactamente la escalabilidad, desde conceptos básicos hasta teoremas avanzados. 
+							Veremos distintas formas de escalabilidad y como debemos mejorar cada una de ellas. 
+							Por último se mencionará qué herramientas podemos utilizar para medirla correctamente y sacar provecho para nuestros proyectos.</p>
 					</div>
 				</div>
                 <hr/>
