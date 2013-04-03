@@ -14,7 +14,7 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/unknown.png"
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/daniel.paneda.jpg"
 													alt="Unknown"></div>
 					</div>
 					<div class="span10">
