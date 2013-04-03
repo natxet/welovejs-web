@@ -1,6 +1,6 @@
 <div class="page-header">
-	<h1>Próximo evento: 13 apr 2013</h1>
-	<a class="btn btn-large disabled" href="#">Apúntate</a>
+	<h1>Próximo evento: 13 apr 2013</h1><br />
+	<a class="btn-success btn-large" href="http://welovephp2.eventbrite.com/">Apúntate</a>
 </div>
 <div class="row">
 	<div class="span12">
@@ -36,8 +36,8 @@
 					<div class="span10">
 						<h3>(Charla) Todo lo que siempre quiso saber sobre escalabilidad y nunca se atrevió a preguntar.</h3>
 						<p>Por Basilio Vera</p>
-						<p>El arquitecto más veterano de Softonic nos explicará qué es exactamente la escalabilidad, desde conceptos básicos hasta teoremas avanzados. 
-							Veremos distintas formas de escalabilidad y como debemos mejorar cada una de ellas. 
+						<p>El arquitecto más veterano de <strong>Softonic</strong> nos explicará qué es exactamente la escalabilidad, desde conceptos básicos hasta teoremas avanzados. 
+							Veremos distintas formas de escalabilidad y cómo debemos mejorar cada una de ellas. 
 							Por último se mencionará qué herramientas podemos utilizar para medirla correctamente y sacar provecho para nuestros proyectos.</p>
 					</div>
 				</div>
@@ -80,17 +80,13 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/choji.jpg"
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/unknown.png"
 													alt="Choji"></div>
 					</div>
 					<div class="span10">
 						<h3>(Workshop) Próximamente.</h3>
-						<p>Por un guerrero</p>
-						<p>¡No me digas gordo, solo estoy llenito! (<a href="http://es.wikipedia.org/wiki/Shikamaru_Nara" rel="nofollow" target="_blank">Wikipedia</a>).</p>
-						<p><strong>Chōji</strong> se caracteriza por su amor a la comida, sus favoritas vendrían siendo la Barbacoa Koreana,
-							dulces o golosinas y básicamente todo lo que es comestible. Su hambre casi constante es muchas
-							veces una molestia para sus compañeros de equipo. A pesar de sus hábitos alimenticios Chōji es
-							muy sensible acerca de su peso y se molesta mucho cuando alguien lo llama "gordo" </p>
+						<p>To be defined</p>
+						<p></p>
 					</div>
 				</div>
 
@@ -114,7 +110,7 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 12:30 - 13:30</th>
-						<td>(Charla) Próximamente</td>
+						<td>(Charla) Todo lo que siempre quiso saber sobre escalabilidad y nunca se atrevió a preguntar.</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 13:30 - 15:00</th>
