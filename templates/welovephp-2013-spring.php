@@ -85,8 +85,8 @@
 					</div>
 					<div class="span10">
 						<h3>(Workshop) Deployment de aplicaciones: Mejora tu proceso de deploy.</h3>
+						<p>Por <strong>Carlos Buenosvinos</strong></p>
 						<p>To be defined</p>
-						<p></p>
 					</div>
 				</div>
 
