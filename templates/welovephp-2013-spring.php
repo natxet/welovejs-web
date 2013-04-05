@@ -80,11 +80,11 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/unknown.png"
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/carlos.buenosvinos.jpg"
 													alt="Choji"></div>
 					</div>
 					<div class="span10">
-						<h3>(Workshop) Próximamente.</h3>
+						<h3>(Workshop) Deployment de aplicaciones: Mejora tu proceso de deploy.</h3>
 						<p>To be defined</p>
 						<p></p>
 					</div>
@@ -121,7 +121,7 @@
 						<td>(Workshop) Redis: Introducción e integración en entornos PHP</td>
 					</tr>
 					<tr>
-						<td>(Workshop) Próximamente</td>
+						<td>(Workshop) Deployment de aplicaciones: Mejora tu proceso de deploy.</td>
 					</tr>
 					</tbody>
 				</table>
