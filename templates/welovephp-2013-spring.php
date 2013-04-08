@@ -86,7 +86,20 @@
 					<div class="span10">
 						<h3>(Workshop) Deployment de aplicaciones: Mejora tu proceso de deploy.</h3>
 						<p>Por <strong>Carlos Buenosvinos</strong></p>
-						<p>To be defined</p>
+						<p>Si subes a producción con el Cyberduck por FTP en modo "copy & paste" será mejor que no se lo cuentes a tus amiguetes, 
+							dejaran de ser tus amigos. Si tienes un script chusquero que acaba tirando por rsync, mucho mejor, 
+							pero no podrás aparcar en la puerta de la discoteca. Pero sólo cuando ejecutando un comandito, 
+							todo se deploya automáticamente, ejecutando otro se hace un rollback, siempre manteniendo como máximo las N últimas 
+							subidas para no acabar con 100 deploys en producción, podrás ser el alma de la fiesta.<br /><br />
+							La idea de esta workshop es arrojar algo de luz sobre los diferentes sistemas de deploy de aplicaciones PHP que existen y practicar con Capistrano (<a href="https://github.com/capistrano/capistrano">https://github.com/capistrano/capistrano</a>), 
+							una máquina virtual o vuestro servidor y una aplicación de ejemplo para deployar. 
+							Los requisitos son tener ruby instalado (python también por si podemos hacer algo con Fabric) y si no tenéis un servidor donde deployar alguna máquina virtual o entorno vagrant montado (<a href="http://www.vagrantup.com">http://www.vagrantup.com</a>).
+						</p>
+						<p><span class="label label-important">Requerimientos</span></p>
+						<ul>
+							<li>Tener Ruby instalado</li>
+							<li>Servidor donde desplegar (online, o máquina virtual)</li>
+						</ul>
 					</div>
 				</div>
 
