@@ -24,7 +24,7 @@
                     </div>
                     <div class="span10">
                         <h3>Charla: SEO for Single Page Webapps / Websites</h3>
-                        <p>Por <strong><a href="https://twitter.com/#!/wecanbuygoogle" class="sb small twitter">Jose de Blas</a></strong></p>
+                        <p>Por <strong><a href="https://twitter.com/#!/wecanbuygoogle">Jose de Blas</a></strong></p>
 						<h4>BIO</h4>
 						<p>	Especialista SEO en Softonic con más de 10 años de experiencia en el sector internet.
 							Ha trabajado como programador, CTO y analista web, pero su pasión la encontramos
@@ -54,7 +54,7 @@
                     </div>
                     <div class="span10">
                         <h3>Charla: Seguridad en JS y especialmente en Node.js</h3>
-                        <p>Por <strong><a href="https://twitter.com/#!/vnico" class="sb small twitter">Valentín Gutierrez</a></strong></p>
+                        <p>Por <strong><a href="https://twitter.com/#!/vnico">Valentín Gutierrez</a></strong></p>
                         <h4>BIO</h4>
                         <p>Web Application Security Specialist in Softonic.</p>
                         <h4>Sobre la charla</h4>
@@ -71,7 +71,7 @@
                     </div>
                     <div class="span10">
                         <h3>Workshop: Blackberry SDK</h3>
-                        <p>Por <strong><a href="https://twitter.com/#!/jorgecasar" class="sb small twitter">Jorge del Casar</a></strong></p>
+                        <p>Por <strong><a href="https://twitter.com/#!/jorgecasar">Jorge del Casar</a></strong></p>
                         <h4>BIO</h4>
                         <p>Tras 10 años en el desarrollo web, trabajando en empresas como Softonic.com,
                             me he cambiado de bando al desarrollo de aplicaciones
@@ -110,7 +110,7 @@
                     </div>
                     <div class="span10">
                         <h3>Workshop: Hydra.js con las manos en la masa</h3>
-                        <p>Por <strong><a href="https://twitter.com/#!/amischol" class="sb small twitter">Tomás Corral</a></strong></p>
+                        <p>Por <strong><a href="https://twitter.com/#!/amischol">Tomás Corral</a></strong></p>
                         <h4>BIO</h4>
                         <p> Javascript Arquitect Engineer en Softonic. Coordinador de CoderDojo Barcelona
                             y otros eventos que permitan divulgar la programación como una forma
