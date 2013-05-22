@@ -18,7 +18,7 @@ $config = array(
 		)
 	),
 	'next_events' => array(
-		'welovejs4-2013-summer' => '4) 15 June 2013'
+		'welovejs5-2013-summer' => '4) 15 June 2013'
 	),
 	'past_events' => array(
 		'welovejs4-2013-winter' => '4) 2 Mar 2013',

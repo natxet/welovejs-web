@@ -19,7 +19,7 @@
 				<div class="row">
                     <div class="span2">
                         <div class="thumbnail">
-                        	<img src="<?=$assets_path?>img/speakers/jose.deblas.jpg" alt="Jose de Blas" />
+                        	<img src="<?=$assets_path?>img/speakers/jose.deblas.png" alt="Jose de Blas" />
                             <ul class="unstyled inline">
                                 <li><a href="https://twitter.com/#!/wecanbuygoogle" class="sb small twitter">Twitter</a></li>
                             </ul>
