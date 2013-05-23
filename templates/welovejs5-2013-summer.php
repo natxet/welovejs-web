@@ -1,7 +1,7 @@
 <div class="page-header">
 	<h1>Pr&oacute;ximo evento: 15 de junio de 2013
-		<!--<a class="btn btn-large btn-success" href="http://welovejs5.eventbrite.com/"
-		   target="_blank">¡Consigue tu entrada!</a>-->
+		<a class="btn btn-large btn-success" href="http://welovejs5.eventbrite.com/"
+		   target="_blank">¡Consigue tu entrada!</a>
         </h1>
 </div>
 <div class="row">
