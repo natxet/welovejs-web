@@ -49,16 +49,23 @@
                 <div class="row">
                     <div class="span2">
                         <div class="thumbnail">
-                        	<img src="<?=$assets_path?>img/speakers/valentin.gutierrez.png" alt="Valentín Gutierrez">
+                        	<img src="<?=$assets_path?>img/speakers/valentin.gutierrez.png" alt="Valentin Gutierrez">
 						</div>
                     </div>
                     <div class="span10">
-                        <h3>Charla: Seguridad en JS y especialmente en Node.js</h3>
-                        <p>Por <strong><a href="https://twitter.com/#!/vnico">Valentín Gutierrez</a></strong></p>
+                        <h3>Charla: Securizando una implementación de node.js + Faye</h3>
+                        <p>Por <strong><a href="https://twitter.com/#!/vnico">Valent&iacute;n Guti&eacute;rrez</a></strong></p>
                         <h4>BIO</h4>
-                        <p>Web Application Security Specialist in Softonic.</p>
+                        <p>Web Application Security Specialist en Softonic con 9 a&ntilde;os de experiencia en TI.
+                        	Despu&uacute;s de estar dos a&ntilde;os en INTECO-CERT, el se encarga de la seguridad
+                        	Web en Softonic, realizando auditor&iacute;as de c&oacute;digo y pentesting sobre los diferentes
+                        	productos de la compa&ntilde;ía.
+                        </p>
                         <h4>Sobre la charla</h4>
-                        <p>t.b.a.</p>
+                        <p>En esta charla se expondr&aacute;n los riegos de un despliegue "por defecto"
+                        	de <a href="http://nodejs.org/">node.js</a> + <a href="http://faye.jcoglan.com/">Faye</a>,
+                        	como explotar dichos fallos y su posterior securizaci&oacute;n.
+                        </p>
                     </div>
                 </div>
                 <hr/>
