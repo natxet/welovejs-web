@@ -70,7 +70,7 @@
 						</div>
                     </div>
                     <div class="span10">
-                        <h3>Workshop: Blackberry SDK</h3>
+                        <h3>Workshop: HTML5 Webworks SDK for Blackberry 10</h3>
                         <p>Por <strong><a href="https://twitter.com/#!/jorgecasar">Jorge del Casar</a></strong></p>
                         <h4>BIO</h4>
                         <p>Tras 10 años en el desarrollo web, trabajando en empresas como Softonic.com,
@@ -87,51 +87,23 @@
                             conocimientos en el desarrollo de aplicaciones móviles y algunas
                             de las APIs que pone WebWorks a tu disposición para acceder a
                             información específica de BlackBerry.</p>
-                        <h4 class="label label-important">Requerimientos</h4>
+                        <h4 class="label label-important">Requerimientos (cada punto es necesario)</h4>
                         <ul>
                             <li><a href="https://developer.blackberry.com/html5/download/">BlackBerry 10 WebWorks SDK</a></li>
                             <li><a href="<https://developer.blackberry.com/html5/download/">BlackBerry 10 Simulator</a>:
                              Requiere <a href="http://www.vmware.com/products/player/">Vmware Player for Windows</a> (free) or
                              <a href="http://www.vmware.com/products/fusion/overview.html">VMware Fusion for Mac</a>
-                             (43,07€ - oferta Mayo: 34,45€). En caso de ser un número reducido de asistentes se suministrará
-                             un Dev Alpha B para el despliegue de la aplicación.</li>
+                             (43,07€ - oferta Mayo: 34,45€).</li>
                              <li>Navegador <a href="https://chrome.google.com">Google Chrome</a></li>
-                             <li><a href="https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc">Plugin Ripple Emulator</a> (<a href="http://ripple.incubator.apache.org/">Apache Ripple Open Source Project</a>)
+                             <li>
+            <a href="https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc">Plugin Ripple Emulator</a>
+             (<a href="http://ripple.incubator.apache.org/">Apache Ripple Open Source Project</a>)</li>
+                             <li>Pregunta por <em>SignedKeys</em> at the <a href="https://www.blackberry.com/SignedKeys">Blackberry Homepage</a>
+                              para acelerar el proceso de la configuración (en menos de 2 horas se recibe los ficheros)</li>
                         </ul>
                     </div>
                 </div>
                 <hr/>
-
-                <div class="row">
-                    <div class="span2">
-                        <div class="thumbnail">
-                        	<img src="<?=$assets_path?>img/speakers/tomas.corral.jpg" alt="Tomás Corral">
-						</div>
-                    </div>
-                    <div class="span10">
-                        <h3>Workshop: Hydra.js con las manos en la masa</h3>
-                        <p>Por <strong><a href="https://twitter.com/#!/amischol">Tomás Corral</a></strong></p>
-                        <h4>BIO</h4>
-                        <p> Javascript Arquitect Engineer en Softonic. Coordinador de CoderDojo Barcelona
-                            y otros eventos que permitan divulgar la programación como una forma
-                            de vida y diversión, soy un apasionado por las buenas prácticas y mejor
-                            código, convencido que esa es la forma de trabajar si quieres que el futuro
-                            no te alcance. El afán de divulgación del conocimiento me ha llevado
-                            a crear y colaborar en muchos proyectos open source como:
-                            Hydra.js, Hermes.js, Lungo.js, Quo.js, Karma runner(antes Testacular), Buster.js...
-                        </p>
-                        <h4>Sobre la charla</h4>
-                        <p><a href="http://tcorral.github.io/Hydra.js/" title="tcorral.github.io: Hydra.js">Hydra.js</a>
-                        	is an easy-to-use JavaScript framework that provides you with the necessary
-                        	tools to create your application using modules and widgets. It is actively used
-                        	in high traffic websites, as for example softonic.com (nearly 1 billion PV per month).
-                        	During the workshop we are going to build a sample application that will you
-                        	familiarize in no-time with all features that Hydra provides.
-                        </p>
-                    </div>
-                </div>
-                <hr/>
-
             </div>
 			<div class="tab-pane" id="horario">
 				<h2>Horario</h2>
@@ -158,16 +130,11 @@
 						<td><i>Comida (Pizzas cortes&iacute;a de Softonic!)</i></td>
 					</tr>
 					<tr>
-						<th rowspan="2"><i class="icon-time"></i> 15:00 - 18:00 <i class="icon-exclamation-sign"></i></th>
-						<td>Workshop: Hydra.js con las manos en la masa</td>
-					</tr>
-					<tr>
+						<th><i class="icon-time"></i> 15:00 - 18:00</th>
 						<td>Workshop: Blackberry SDK</td>
 					</tr>
 					</tbody>
 				</table>
-				<div class="alert alert-info"><i class="icon-exclamation-sign"></i> Importante: Los workshops son en
-					paralelo</div>
 			</div>
 		</div>
 

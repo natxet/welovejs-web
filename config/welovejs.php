@@ -25,6 +25,6 @@ $config = array(
 		'welovejs3-2012-fall' => '3) 29 Sep 2012',
 		'welovejs2-2012-spring' => '2) 28 Abr 2012'
 	)
-);
-
+)
+;
 return $config;
