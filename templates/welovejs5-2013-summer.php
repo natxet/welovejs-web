@@ -57,7 +57,7 @@
                         <p>Por <strong><a href="https://twitter.com/#!/vnico">Valent&iacute;n Guti&eacute;rrez</a></strong></p>
                         <h4>BIO</h4>
                         <p>Web Application Security Specialist en Softonic con 9 a&ntilde;os de experiencia en TI.
-                        	Despu&uacute;s de estar dos a&ntilde;os en INTECO-CERT, el se encarga de la seguridad
+                        	Despu&eacute;s de estar dos a&ntilde;os en INTECO-CERT, &eacute;l se encarga de la seguridad
                         	Web en Softonic, realizando auditor&iacute;as de c&oacute;digo y pentesting sobre los diferentes
                         	productos de la compa&ntilde;ía.
                         </p>
