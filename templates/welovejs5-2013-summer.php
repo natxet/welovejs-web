@@ -48,30 +48,6 @@
 
                 <div class="row">
                     <div class="span2">
-                        <div class="thumbnail">
-                        	<img src="<?=$assets_path?>img/speakers/valentin.gutierrez.png" alt="Valentin Gutierrez">
-						</div>
-                    </div>
-                    <div class="span10">
-                        <h3>Charla: Securizando una implementación de node.js + Faye</h3>
-                        <p>Por <strong><a href="https://twitter.com/#!/vnico">Valent&iacute;n Guti&eacute;rrez</a></strong></p>
-                        <h4>BIO</h4>
-                        <p>Web Application Security Specialist en Softonic con 9 a&ntilde;os de experiencia en TI.
-                        	Despu&eacute;s de estar dos a&ntilde;os en INTECO-CERT, &eacute;l se encarga de la seguridad
-                        	Web en Softonic, realizando auditor&iacute;as de c&oacute;digo y pentesting sobre los diferentes
-                        	productos de la compa&ntilde;ía.
-                        </p>
-                        <h4>Sobre la charla</h4>
-                        <p>En esta charla se expondr&aacute;n los riegos de un despliegue "por defecto"
-                        	de <a href="http://nodejs.org/">node.js</a> + <a href="http://faye.jcoglan.com/">Faye</a>,
-                        	como explotar dichos fallos y su posterior securizaci&oacute;n.
-                        </p>
-                    </div>
-                </div>
-                <hr/>
-
-                <div class="row">
-                    <div class="span2">
                         <div class="thumbnail"><img src="<?=$assets_path?>img/speakers/jorge.delcasar.jpeg"
                                                     alt="Jorge del Casar">
 						</div>
@@ -117,28 +93,20 @@
 				<table class="table table-bordered">
 					<tbody>
 					<tr>
-						<th><i class="icon-time"></i> 10:30 - 11:00</th>
+						<th><i class="icon-time"></i> 9:00 - 09:30</th>
 						<td>APERTURA - RECEPCI&Oacute;N</td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 11:00 - 12:00</th>
+						<th><i class="icon-time"></i> 09:30 - 10:30</th>
 						<td>Charla: SEO for Single Page Webapps / Websites</td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 12:00 - 12:30</th>
-						<td><i>Networking</i></td>
-					</tr>
-					<tr>
-						<th><i class="icon-time"></i> 12:30 - 13:30</th>
-						<td>Charla: Seguridad en JS y especialmente en Node.js</td>
-					</tr>
-					<tr>
-						<th><i class="icon-time"></i> 13:30 - 15:00</th>
-						<td><i>Comida (Pizzas cortes&iacute;a de Softonic!)</i></td>
-					</tr>
-					<tr>
-						<th><i class="icon-time"></i> 15:00 - 18:00</th>
+						<th><i class="icon-time"></i> 10:45 - 13:45</th>
 						<td>Workshop: Blackberry SDK</td>
+					</tr>
+					<tr>
+						<th><i class="icon-time"></i> 14:00 - 16:00</th>
+						<td><i>Comida (Pizzas cortes&iacute;a de Softonic!)</i></td>
 					</tr>
 					</tbody>
 				</table>
