@@ -93,15 +93,15 @@
 				<table class="table table-bordered">
 					<tbody>
 					<tr>
-						<th><i class="icon-time"></i> 9:00 - 09:30</th>
+						<th><i class="icon-time"></i> 9:45 - 10:00</th>
 						<td>APERTURA - RECEPCI&Oacute;N</td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 09:30 - 10:30</th>
+						<th><i class="icon-time"></i> 10:00 - 11:00</th>
 						<td>Charla: SEO for Single Page Webapps / Websites</td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 10:45 - 13:45</th>
+						<th><i class="icon-time"></i> 11:00 - 14:00</th>
 						<td>Workshop: Blackberry SDK</td>
 					</tr>
 					<tr>
