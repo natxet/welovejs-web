@@ -64,7 +64,6 @@
 					</tr>
 					</tbody>
 				</table>
-				<div class="alert alert-info"><i class="icon-warning-sign"></i> Importante: Los workshops son en paralelo</div>
 			</div>
 		</div>
 
