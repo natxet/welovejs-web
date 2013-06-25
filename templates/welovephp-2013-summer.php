@@ -14,14 +14,19 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/default.jpg"
-													alt="Unknown"></div>
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/christof.damian.jpg"
+													alt="Christof Damian"></div>
 					</div>
 					<div class="span10">
-						<h3>Charla</h3>
-						<p>Por un maestro</p>
-						<p>Mientras tanto os dejamos con un patrón de diseño curioso curioso...</p>
-						<p><strong><a target="_blank" rel="nofollow" href="http://es.wikipedia.org/wiki/Chain_of_Responsibility_(patr%C3%B3n_de_dise%C3%B1o)">Chain of Responsibility</a></strong> El patrón de diseño Chain of Responsibility es un patrón de comportamiento que evita acoplar el emisor de una petición a su receptor dando a más de un objeto la posibilidad de responder a una petición. Para ello, se encadenan los receptores y pasa la petición a través de la cadena hasta que es procesada por algún objeto. Este patrón es utilizado a menudo en el contexto de las interfaces gráficas de usuario donde un objeto puede contener varios objetos. Según si el ambiente de ventanas genera eventos, los objetos los manejan o los pasan.</p>
+						<h3>Methodologies and tools used in the development team</h3>
+						<p>Por un <a rel="nofollow" href="https://twitter.com/cdamian" target="_blank">Christof Damian</a></p>
+						<p>Christof is the Platform Architect at Splendia and will explain in
+							this talk the methodologies and tools used in the development team.
+							Splendia uses various technologies to make it as easy and fast as
+							possible for developers to release changes while at the same time
+							allowing as many freedoms on their work as possible.
+							<i>Talk will be in English</i>.
+						</p>
 					</div>
 				</div>
                 <hr/>
@@ -52,7 +57,7 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 10:00 - 11:00</th>
-						<td>Charla</td>
+						<td>Methodologies and tools used in the development team</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 11:00 - 14:00</th>
