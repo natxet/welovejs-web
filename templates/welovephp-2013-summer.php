@@ -25,7 +25,7 @@
 							Splendia uses various technologies to make it as easy and fast as
 							possible for developers to release changes while at the same time
 							allowing as many freedoms on their work as possible.
-							<i>Talk will be in English</i>.
+							<i><strong>Talk will be in English</strong></i>.
 						</p>
 					</div>
 				</div>
@@ -33,13 +33,13 @@
 
 				<div class="row">
 					<div class="span2">
-						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/default.jpg"
-													alt="Sasuke"></div>
+						<div class="thumbnail"><img width="160" height="160" src="<?=$assets_path?>img/speakers/javier.martin.jpg"
+													alt="Javier Martín"></div>
 					</div>
 					<div class="span10">
-						<h3>Workshop</h3>
-						<p>Por un genio</p>
-						<p><strong><a target="_blank" rel="nofollow" href="http://es.wikipedia.org/wiki/Memento_(patr%C3%B3n_de_dise%C3%B1o)">Memento</a></strong> Memento, es un patrón de diseño, cuya finalidad es almacenar el estado de un objeto (o del sistema completo) en un momento dado de manera que se pueda restaurar en ese punto de manera sencilla.</p>
+						<h3>Vagrant, un entorno virtualizado</h3>
+						<p>Por <a href="https://twitter.com/meth" rel="nofollow" target="_blank">Javier Martín</a></p>
+						<p>Aprende a montar y configurar tu propio entorno de desarrollo como un verdadero profesional. Con Vagrant podrás levantar máquinas virtuales de forma fácil y rápida con la configuración que más te guste. Javier Martín, Web developer en Softonic, nos enseñará los primeros pasos con esta gran herramienta.</p>
 					</div>
 				</div>
                 <hr/>
@@ -61,7 +61,7 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 11:00 - 14:00</th>
-						<td>Workshop</td>
+						<td>Vagrant, un entorno virtualizado</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 14:00 - 16:00</th>
