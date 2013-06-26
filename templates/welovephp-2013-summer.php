@@ -1,6 +1,6 @@
 <div class="page-header">
 	<h1>Próximo evento: 13 jul 2013</h1><br />
-	<a class="btn btn-large" disabled="disabled">Apúntate</a>
+	<a rel="nofollow" href="http://www.eventbrite.es/event/7166267499" target="_blank" class="btn btn-success btn-large">Apúntate</a>
 </div>
 <div class="row">
 	<div class="span12">
