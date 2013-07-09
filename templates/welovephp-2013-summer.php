@@ -40,6 +40,10 @@
 						<h3>Vagrant, un entorno virtualizado</h3>
 						<p>Por <a href="https://twitter.com/meth" rel="nofollow" target="_blank">Javier Martín</a></p>
 						<p>Aprende a montar y configurar tu propio entorno de desarrollo como un verdadero profesional. Con Vagrant podrás levantar máquinas virtuales de forma fácil y rápida con la configuración que más te guste. Javier Martín, Web developer en Softonic, nos enseñará los primeros pasos con esta gran herramienta.</p>
+						<p><span class="label label-important">Requerimientos</span></p>
+						<ul>
+							<li>Up to date VirtualBox (almost any version but 4.2.14. That version <strong>won't work</strong>)</li>
+						</ul>
 					</div>
 				</div>
                 <hr/>
