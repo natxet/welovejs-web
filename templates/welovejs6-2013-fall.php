@@ -94,8 +94,10 @@
 				<div class="row">
 					<div class="span2">
 						<div class="thumbnail">
-							<img src="<?=$assets_path?>img/speakers/marc.rubino.jpg" alt="Marc Rubiño">
-							<img src="<?=$assets_path?>img/speakers/fernando.escolar-2.jpg" alt="Fernando Escolar">
+							<img src="<?=$assets_path?>img/speakers/marc.rubino.jpg" alt="Marc Rubiño" title="Marc Rubiño">
+						</div>
+						<div class="thumbnail">
+							<img src="<?=$assets_path?>img/speakers/fernando.escolar-2.jpg" alt="Fernando Escolar" title="Fernando Escolar">
 						</div>
 					</div>
 					<div class="span10">
