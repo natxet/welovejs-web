@@ -24,7 +24,7 @@
 					</div>
 					<div class="span10">
 						<h3>Charla: Problemas encontrado sobre la marcha haciendo el proyecto Videogular con AngularJS</h3>
-						<p>Por <strong>Raul Jimenez</a></p>
+						<p>Por <strong>Raul Jimeneza</strong></p>
 						<h4>Biografía</h4>
 						<p>Desarrollador con más de 10 años en web, multimedia y móviles.
 							Ha desarrollado soluciones de vídeo para Telecinco, RTVE,
@@ -69,8 +69,6 @@
 					</div>
 				</div>
 				<hr/>
-
-				<h2>Workshops</h2>
 				<div class="row">
 					<div class="span2">
 						<div class="thumbnail">
