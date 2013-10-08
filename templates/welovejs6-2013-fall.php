@@ -95,11 +95,17 @@
 					<div class="span2">
 						<div class="thumbnail">
 							<img src="<?=$assets_path?>img/speakers/marc.rubino.jpg" alt="Marc Rubiño">
+							<img src="<?=$assets_path?>img/speakers/fernando.escolar-2.jpg" alt="Fernando Escolar">
 						</div>
 					</div>
 					<div class="span10">
 						<h3>Workshop: Desarollo de una tienda online con Knockout y MVVM</h3>
-						<p>Por <strong>Marc Rubi&ntilde;o</strong></p>
+						<p>Por <strong>Marc Rubi&ntilde;o</strong> y <strong>Fernando Escolar</strong></p>
+						<h4>Biografía de Fernando Escolar</h4>
+						<p>	Entusiasta del desarrollo y especialista en tecnologías .Net de Microsoft. Seguidor de metodologías
+							ágiles y de los grupos Agile Barcelona y Agile Spain. Miembro del grupo de usuarios CatDotNet.
+							Convencido de que hay una forma mejor de hacer las cosas, de que el agilismo ayuda a enriquecer
+							los procesos, y del constante estado de aprendizaje.</p>
 						<h4>Sobre el workshop</h4>
 						<p>En este workshop desarrollaremos una tienda online con un catálogo de productos,
 							donde podremos comprobar el potencial que nos aporta el enlace a datos
