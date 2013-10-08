@@ -15,7 +15,7 @@
 
 		<div class="tab-content">
 			<div class="tab-pane" id="talks">
-				<h2>Charlas</h2>
+				<h2>Charlas y Workshops</h2>
 				<div class="row">
 					<div class="span2">
 						<div class="thumbnail">
@@ -116,27 +116,27 @@
 				<table class="table table-bordered">
 					<tbody>
 					<tr>
-						<th><i class="icon-time"></i> 9:45 - 10:00</th>
+						<th><i class="icon-time"></i> 10:45 - 11:00</th>
 						<td>APERTURA - RECEPCI&Oacute;N</td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 10:00 - 11:00</th>
+						<th><i class="icon-time"></i> 11:00 - 12:00</th>
 						<td>Charla: Problemas encontrado sobre la marcha haciendo el proyecto Videogular con AngularJS</td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 11:00 - 12:00</th>
+						<th><i class="icon-time"></i> 12:00 - 13:00</th>
 						<td>Charla: Introducción a Knockout.js y el patrón MVVM desde Javascript</td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 12:00 - 14:00</th>
+						<th><i class="icon-time"></i> 13:00 - 14:30</th>
 						<td><i>Comida (Pizzas cortes&iacute;a de Softonic!)</i></td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 14:00 - 17:00</th>
+						<th><i class="icon-time"></i> 14:30 - 17:30</th>
 						<td>Workshop: Desarollo de un plugin para Videogular con AngularJS and Bootstrap 3</td>
 					</tr>
 					<tr>
-						<th><i class="icon-time"></i> 14:00 - 17:00</th>
+						<th><i class="icon-time"></i> 14:30 - 17:30</th>
 						<td>Workshop: Desarollo de una tienda online con Knockout y MVVM</td>
 					</tr>
 					</tbody>
