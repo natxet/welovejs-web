@@ -47,7 +47,7 @@
 				<div class="row">
 					<div class="span2">
 						<div class="thumbnail">
-							<img src="<?=$assets_path?>img/speakers/marc.rubino.jpg" alt="Marc Rubiño"></div>
+							<img src="<?=$assets_path?>img/speakers/marc.rubino.jpg" alt="Marc Rubiño">
 						</div>
 					</div>
 					<div class="span10">
@@ -69,6 +69,7 @@
 					</div>
 				</div>
 				<hr/>
+
 				<div class="row">
 					<div class="span2">
 						<div class="thumbnail">
@@ -93,7 +94,7 @@
 				<div class="row">
 					<div class="span2">
 						<div class="thumbnail">
-							<img src="<?=$assets_path?>img/speakers/marc.rubino.jpg" alt="Marc Rubiño"></div>
+							<img src="<?=$assets_path?>img/speakers/marc.rubino.jpg" alt="Marc Rubiño">
 						</div>
 					</div>
 					<div class="span10">
@@ -108,8 +109,8 @@
 							AngularJS y otro framework del estilo (Ember o Backbone).</p>
 					</div>
 				</div>
-
 			</div>
+
 			<div class="tab-pane" id="horario">
 				<h2>Horario</h2>
 				<table class="table table-bordered">
