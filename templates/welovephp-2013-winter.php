@@ -18,7 +18,7 @@
 													alt="Adan Lobato"></div>
 					</div>
 					<div class="span10">
-						<h3>Next steps with composer</h3>
+						<h3>Mastering Composer</h3>
 						<p>Por <a rel="nofollow" href="https://twitter.com/adanlobato" target="_blank">Adan Lobato</a> <span class="label label">En Español</span></p>
 						<p>
 							In less than 2 years since it came out, Composer has become an important part of our day to day work, revolutionizing the PHP community allowing better interoperability between projects.
