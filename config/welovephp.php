@@ -18,7 +18,7 @@ $config = array(
 		)
 	),
 	'next_events' => array(
-		'welovephp-2013-winter' => '13 Nov 2013',
+		'welovephp-2013-winter' => '30 Nov 2013',
 	),
 	'past_events' => array(
 		'welovephp-2013-spring' => '13 Apr 2013',
