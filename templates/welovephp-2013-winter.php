@@ -46,7 +46,7 @@
 						<p><span class="label label-important">Requisitos</span></p>
 						<ul>
 							<li>A LAMP environment (MySQL included)</li>
-							<li>You need to bring your own laptop with the last version of Sphinx (with MySQL support) already installed. If you don't have it, you can follow <a href="http://www.sphinxdev.com/empecemos-instalando-sphinx-linux-2280430" target="_blank">this tutorial written by Jorge himself</a>.</li>
+							<li>You need to bring your own laptop with the latest trunk revision of Sphinx repository (with MySQL support) already installed. If you don't have it, you can follow <a href="http://www.sphinxdev.com/empecemos-instalando-sphinx-linux-2280430" target="_blank">this tutorial written by Jorge himself</a>.</li>
 						</ul>
 					</div>
 				</div>
