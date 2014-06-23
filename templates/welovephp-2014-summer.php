@@ -20,7 +20,7 @@
 					<div class="span10">
 						<h3>What's the "minimum viable knowledge" of PHP developer</h3>
 						<p>Por <a rel="nofollow" href="#" target="">Alexander Kudryashov</a></p>
-						<p>
+						<p>A tell of a wonderful journey in the wider world of software engineering outside of our php wheelhouse. Come and realise what you know, what you don’t know and what you definitely should know to be the software engineer.</p>
 					</div>
 				</div>
                 <hr/>
@@ -32,7 +32,7 @@
 					</div>
 					<div class="span10">
 						<h3>Introduction to Behat and Mink</h3>
-						<p>Por <a href="https://twitter.com/meth" rel="nofollow" target="_blank">Ignacio Tolstoy</a></p>
+						<p>Por <a href="https://twitter.com/nax_hh" rel="nofollow" target="_blank">Ignacio Tolstoy</a></p>
 						<p>In this workshop you will learn how Behat works and how to create testing scenarios using Behat, Mink and some selenium.</p>
 						<p><span class="label label-important">Requerimientos</span></p>
 						<ul>
