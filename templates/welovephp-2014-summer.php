@@ -18,7 +18,7 @@
 													alt="Alexander Kudryashov"></div>
 					</div>
 					<div class="span10">
-						<h3>What's the "minimum viable knowledge" of PHP developer</h3>
+						<h3>How to stop being a php developer and become a software engineer</h3>
 						<p>Por <a rel="nofollow" href="#" target="">Alexander Kudryashov</a></p>
 						<p>A tell of a wonderful journey in the wider world of software engineering outside of our php wheelhouse. Come and realise what you know, what you don’t know and what you definitely should know to be the software engineer.</p>
 					</div>
@@ -56,7 +56,7 @@
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 10:00 - 11:00</th>
-						<td>What's the "minimum viable knowledge" of PHP developer</td>
+						<td>How to stop being a php developer and become a software engineer</td>
 					</tr>
 					<tr>
 						<th><i class="icon-time"></i> 11:00 - 14:00</th>
