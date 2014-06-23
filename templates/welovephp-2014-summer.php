@@ -1,6 +1,6 @@
 <div class="page-header">
 	<h1>Próximo evento: 05 jul 2014</h1><br />
-	<a rel="nofollow" href="#" target="" class="btn btn-large">Próximamente</a>
+	<a rel="nofollow" href="https://www.eventbrite.es/e/entradas-welovephp-summer-2014-12045146357" target="" class="btn btn-large btn-success">Apúntate</a>
 </div>
 <div class="row">
 	<div class="span12">
